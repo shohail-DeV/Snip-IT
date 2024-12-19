@@ -1,4 +1,4 @@
-# **Snip-It-YT: Full-Stack Code Snippet Manager**
+# **Snip-It: Full-Stack Code Snippet Manager**
 
 A modern, full-stack web application for managing and organizing code snippets efficiently. Built with cutting-edge technologies, this app is designed to streamline the coding workflow for developers.
 
